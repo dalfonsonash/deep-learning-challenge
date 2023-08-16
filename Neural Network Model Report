@@ -9,7 +9,7 @@ The purpose of this analysis is to develop a deep learning model that can predic
 
   * Features: The features used for the model include various attributes of the charity donation, such as `APPLICATION_TYPE`, `AFFILIATION`, `CLASSIFICATION`, etc.
 
-- * Removed Variables: The `EIN` (Employer Identification Number) and `NAME` columns were removed from the input data as they are neither targets nor relevant features for prediction.
+  * Removed Variables: The `EIN` (Employer Identification Number) and `NAME` columns were removed from the input data as they are neither targets nor relevant features for prediction.
 
 # Compiling, Training, and Evaluating the Model:
 
