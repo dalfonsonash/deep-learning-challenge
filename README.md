@@ -16,3 +16,11 @@ From Alphabet Soup’s business team, you have received a CSV containing more th
 * SPECIAL_CONSIDERATIONS—Special considerations for application
 * ASK_AMT—Funding amount requested
 * IS_SUCCESSFUL—Was the money used effectively
+
+## Tensorflow Optimization:
+Two optimization models were performed with very near similar results.
+  * AlphabetSoupCharity_Optimization.ipynb
+  * AlphabetSoupCharity_Optimization_second_attempt.ipynb
+
+## Reported results:
+  * Neural Network Model Report.md
